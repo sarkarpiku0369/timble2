@@ -1,0 +1,3 @@
+const Basic = [
+    {name: 'Zadoics' }
+]
